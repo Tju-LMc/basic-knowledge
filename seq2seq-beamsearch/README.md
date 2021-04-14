@@ -1,6 +1,15 @@
 # Seq2Seq Beam Search Decoding for Pytorch
 
-## 调试心得
+## 安装依赖
+```shell
+# 安装 spacy 和requirements中依赖
+pip install spacy torchtext==0.9
+
+# 分别安装两个语言扩展
+python -m spacy download de
+python -m spacy download en
+```
+## 调试修改心得
 
 torchtext在更新到0.9之后数据集multi30k有较大改动, 各种api也有较大变化, 不再需要 Field 等方法
 
@@ -8,7 +17,15 @@ torchtext在更新到0.9之后数据集multi30k有较大改动, 各种api也有�
 
 multi30k 现在被移入experimental中, 根据上方参考教程, 重新预处理数据
 
-目录结构, 注意修改 multi30k root参数, 现在默认 vscode 工作区最外层的 .data 文件夹
+so..主要代码的改动在run.py中170-200行附近
+
+目录结构如下图, 注意传入的 multi30k root参数
+
+![](./seq-dir.png)
+
+todo...
+
+目前attention尚未调试
 
 ## 基础知识
 
@@ -31,7 +48,6 @@ multi30k 现在被移入experimental中, 根据上方参考教程, 重新预处�
 ### beam search
 
 集束搜索也是解决 Teacher Forcing 性能的一种办法
-
 
 ## 原README
 

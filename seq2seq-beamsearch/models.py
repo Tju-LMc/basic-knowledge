@@ -13,7 +13,7 @@ class EncoderRNN(nn.Module):
         self.dec_h_size = dec_h_size
         self.v_size = v_size
         self.device = device
-
+        # dec_v_size
         self.embedding = nn.Embedding(v_size, embd_size)
         self.rnn = nn.GRU(embd_size, enc_h_size, bidirectional=True)
         self.f_concat_h = nn.Linear(enc_h_size*2, dec_h_size)

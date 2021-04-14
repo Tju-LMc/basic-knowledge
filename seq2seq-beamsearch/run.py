@@ -25,7 +25,8 @@ from itertools import tee
 from beam import beam_search_decoding, batch_beam_search_decoding
 from models import EncoderRNN, DecoderRNN, Attention, AttnDecoderRNN, Seq2Seq
 
-BATCH_SIZE = 64 # batch size for training
+DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+# DEVICE = torch.device('cpu') 
 
 # # utils {{{
 # def tokenize_de(text):
@@ -64,6 +65,8 @@ def train(model, itr, optimizer, criterion):
         # src = batch.src # (T, bs)
         # trg = batch.trg # (T, bs)
         src, trg = batch
+        src = src.to(DEVICE)
+        trg = trg.to(DEVICE)
 
         optimizer.zero_grad()
 
@@ -89,8 +92,9 @@ def evaluate(model, itr, criterion):
     epoch_loss = 0
     with torch.no_grad():
         for batch in itr:
-            src = batch.src
-            trg = batch.trg
+            src, trg = batch
+            src = src.to(DEVICE)
+            trg = trg.to(DEVICE)
 
             output = model(src, trg, teacher_forcing_ratio=0)
 
@@ -103,12 +107,14 @@ def evaluate(model, itr, criterion):
             epoch_loss += loss.item()
 
     return epoch_loss / len(itr)
-# }}}
 
-# DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-DEVICE = torch.device('cpu')
-spacy_de = spacy.load('de')
-spacy_en = spacy.load('en')
+
+
+from pathlib import Path, PurePath
+dataroot = Path.cwd() / 'seq2seq-beamsearch' / 'data'
+modelpath = Path.cwd() / 'seq2seq-beamsearch' / 'ckpts'
+print(dataroot)
+print(modelpath)
 
 def main():
     # ArgumentParser {{{
@@ -122,16 +128,16 @@ def main():
     parser.add_argument('--dec_h_size', type=int, default=512)
     # other parameters
     parser.add_argument('--beam_width', type=int, default=3)
-    parser.add_argument('--n_best', type=int, default=5)
+    parser.add_argument('--n_best', type=int, default=3)
     parser.add_argument('--max_dec_steps', type=int, default=1000)
-    parser.add_argument('--export_dir', type=str, default='./ckpts/')
+    parser.add_argument('--export_dir', type=str, default=modelpath)
     parser.add_argument('--model_name', type=str, default='s2s')
-    parser.add_argument('--model_path', type=str, default='')
+    parser.add_argument('--model_path', type=str, default=modelpath / 's2s-vanilla.pt')
     parser.add_argument('--skip_train', action='store_true')
     parser.add_argument('--attention', action='store_true')
     opts = parser.parse_args()
     # }}}
-
+    # opts.skip_train = True
 
     # SOS_token = '<SOS>'
     # EOS_token = '<EOS>'
@@ -158,20 +164,41 @@ def main():
     #             batch_size=opts.batch_size,
     #             device=DEVICE)
 
+    # exit
 
-    de_tokenizer = get_tokenizer('spacy', language='de')
-    en_tokenizer = get_tokenizer('spacy', language='en')
-    train_dataset, valid_dataset, test_dataset = Multi30k()
+    train_dataset, valid_dataset, test_dataset = Multi30k(root=dataroot)
     train_dataset1, train_dataset2  = tee(train_dataset)
     valid_dataset1, valid_dataset2  = tee(valid_dataset)
     test_dataset1, test_dataset2  = tee(test_dataset)
     
+    spacy_de = spacy.load('de_core_news_sm')
+    spacy_en = spacy.load('en_core_web_sm')
     de_counter = Counter()
     en_counter = Counter()
+    de_tokenizer = get_tokenizer('spacy', language='de_core_news_sm')
+    en_tokenizer = get_tokenizer('spacy', language='en_core_web_sm')
+
     def build_vocab(dataset):
         for (src_sentence, tgt_sentence) in tqdm(dataset):
             de_counter.update(de_tokenizer(src_sentence))
             en_counter.update(en_tokenizer(tgt_sentence))
+
+    def data_process(dataset):
+        data = []
+        for (raw_de, raw_en) in tqdm(dataset):
+            de_tensor_ = torch.tensor([de_vocab[token] for token in de_tokenizer(raw_de)], dtype=torch.long)
+            en_tensor_ = torch.tensor([en_vocab[token] for token in en_tokenizer(raw_en)], dtype=torch.long)
+            data.append((de_tensor_, en_tensor_))
+        return data
+
+    def generate_batch(data_batch):
+        de_batch, en_batch = [], []
+        for (de_item, en_item) in data_batch:
+            de_batch.append(torch.cat([torch.tensor([TRG_SOS_IDX]), de_item, torch.tensor([TRG_EOS_IDX])], dim=0))
+            en_batch.append(torch.cat([torch.tensor([TRG_SOS_IDX]), en_item, torch.tensor([TRG_EOS_IDX])], dim=0))
+        de_batch = pad_sequence(de_batch, padding_value=TRG_PAD_IDX)
+        en_batch = pad_sequence(en_batch, padding_value=TRG_PAD_IDX)
+        return de_batch, en_batch
 
     build_vocab(train_dataset1)
     build_vocab(valid_dataset1)
@@ -186,45 +213,27 @@ def main():
     TRG_SOS_IDX = en_vocab.stoi['<bos>']
     TRG_EOS_IDX = en_vocab.stoi['<eos>']
 
-    def data_process(dataset):
-        data = []
-        for (raw_de, raw_en) in tqdm(dataset):
-            de_tensor_ = torch.tensor([de_vocab[token] for token in de_tokenizer(raw_de)], dtype=torch.long)
-            en_tensor_ = torch.tensor([en_vocab[token] for token in en_tokenizer(raw_en)], dtype=torch.long)
-            data.append((de_tensor_, en_tensor_))
-        return data
-
     train_data = data_process(train_dataset2)
     valid_data = data_process(valid_dataset2)
     test_data = data_process(test_dataset2)
 
-    def generate_batch(data_batch):
-        de_batch, en_batch = [], []
-        for (de_item, en_item) in data_batch:
-            de_batch.append(torch.cat([torch.tensor([TRG_SOS_IDX]), de_item, torch.tensor([TRG_EOS_IDX])], dim=0))
-            en_batch.append(torch.cat([torch.tensor([TRG_SOS_IDX]), en_item, torch.tensor([TRG_EOS_IDX])], dim=0))
-        de_batch = pad_sequence(de_batch, padding_value=TRG_PAD_IDX)
-        en_batch = pad_sequence(en_batch, padding_value=TRG_PAD_IDX)
-        return de_batch, en_batch
+    train_itr = DataLoader(train_data, batch_size=opts.batch_size, shuffle=False, collate_fn=generate_batch)
+    valid_itr = DataLoader(valid_data, batch_size=opts.batch_size, shuffle=False, collate_fn=generate_batch)
+    test_itr = DataLoader(test_data, batch_size=opts.batch_size, shuffle=False, collate_fn=generate_batch)
 
-    train_itr = DataLoader(train_data, batch_size=BATCH_SIZE, shuffle=False, collate_fn=generate_batch)
-    valid_itr = DataLoader(valid_data, batch_size=BATCH_SIZE, shuffle=False, collate_fn=generate_batch)
-    test_itr = DataLoader(test_data, batch_size=BATCH_SIZE, shuffle=False, collate_fn=generate_batch)
-
-
-    encoder = EncoderRNN(opts.enc_embd_size, opts.enc_h_size, opts.dec_h_size, enc_v_size, DEVICE)
+    encoder = EncoderRNN(opts.enc_embd_size, opts.enc_h_size, opts.dec_h_size, dec_v_size, DEVICE)
 
     if opts.attention:
         attn = Attention(opts.enc_h_size, opts.dec_h_size)
-        decoder = AttnDecoderRNN(opts.dec_embd_size, opts.enc_h_size, opts.dec_h_size, dec_v_size, attn, DEVICE)
+        decoder = AttnDecoderRNN(opts.dec_embd_size, opts.enc_h_size, opts.dec_h_size, enc_v_size, attn, DEVICE)
     else:
-        decoder = DecoderRNN(opts.dec_embd_size, opts.dec_h_size, dec_v_size,  DEVICE)
+        decoder = DecoderRNN(opts.dec_embd_size, opts.dec_h_size, enc_v_size,  DEVICE)
     model = Seq2Seq(encoder, decoder, DEVICE).to(DEVICE)
 
     # TRG_PAD_IDX = TRG.vocab.stoi[TRG.pad_token]
     # TRG_PAD_IDX = tgt_vocab.stoi['<pad>']
 
-    if opts.model_path != '':
+    if opts.skip_train:
         model.load_state_dict(torch.load(opts.model_path))
 
     if not opts.skip_train:
@@ -259,10 +268,14 @@ def main():
     # TRG_EOS_IDX = TRG.vocab.stoi[TRG.eos_token]
     model.eval()
     with torch.no_grad():
-        for batch_id, batch in enumerate(test_itr):
-            src = batch.src # (T, bs)
-            trg = batch.trg # (T, bs)
-            print(f'In: {" ".join(SRC.vocab.itos[idx] for idx in src[:, 0])}')
+        # for batch_id, batch in enumerate(test_itr):
+        for batch in tqdm(test_itr):
+            # src = batch.src # (T, bs)
+            # trg = batch.trg # (T, bs)
+            src, trg = batch
+            src = src.to(DEVICE)
+            trg = src.to(DEVICE)
+            print(f'In: {" ".join(de_vocab.itos[idx] for idx in src[:, 0])}')
 
             enc_outs, h = model.encoder(src) # (T, bs, H), (bs, H)
             # decoded_seqs: (bs, T)
@@ -278,7 +291,7 @@ def main():
                                                 device=DEVICE)
             end_time = time.time()
             print(f'for loop beam search time: {end_time-start_time:.3f}')
-            print_n_best(decoded_seqs[0], TRG.vocab.itos)
+            print_n_best(decoded_seqs[0], en_vocab.itos)
 
             start_time = time.time()
             decoded_seqs = batch_beam_search_decoding(decoder=model.decoder,
@@ -292,7 +305,7 @@ def main():
                                                       device=DEVICE)
             end_time = time.time()
             print(f'Batch beam search time: {end_time-start_time:.3f}')
-            print_n_best(decoded_seqs[0], TRG.vocab.itos)
+            print_n_best(decoded_seqs[0], en_vocab.itos)
 
 
 if __name__ == '__main__':
