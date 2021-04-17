@@ -138,6 +138,7 @@ def main():
     opts = parser.parse_args()
     # }}}
     # opts.skip_train = True
+    opts.attention = True
 
     # SOS_token = '<SOS>'
     # EOS_token = '<EOS>'

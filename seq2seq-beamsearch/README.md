@@ -23,9 +23,7 @@ so..主要代码的改动在run.py中170-200行附近
 
 ![](./seq-dir.png)
 
-todo...
-
-目前attention尚未调试
+attention测试运行通过
 
 ## 基础知识
 

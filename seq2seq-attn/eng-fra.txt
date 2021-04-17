@@ -1,0 +1,1000 @@
+Go.	Va !
+Run!	Cours !
+Run!	Courez !
+Wow!	Ça alors !
+Fire!	Au feu !
+Help!	À l'aide !
+Jump.	Saute.
+Stop!	Ça suffit !
+Stop!	Stop !
+Stop!	Arrête-toi !
+Wait!	Attends !
+Wait!	Attendez !
+I see.	Je comprends.
+I try.	J'essaye.
+I won!	J'ai gagné !
+I won!	Je l'ai emporté !
+Oh no!	Oh non !
+Attack!	Attaque !
+Attack!	Attaquez !
+Cheers!	Santé !
+Cheers!	À votre santé !
+Cheers!	Merci !
+Get up.	Lève-toi.
+Got it!	J'ai pigé !
+Got it!	Compris !
+Got it?	Pigé ?
+Got it?	Compris ?
+Got it?	T'as capté ?
+Hop in.	Monte.
+Hop in.	Montez.
+Hug me.	Serre-moi dans tes bras !
+Hug me.	Serrez-moi dans vos bras !
+I fell.	Je suis tombée.
+I fell.	Je suis tombé.
+I know.	Je sais.
+I left.	Je suis parti.
+I left.	Je suis partie.
+I lost.	J'ai perdu.
+I'm 19.	J'ai 19 ans.
+I'm OK.	Je vais bien.
+I'm OK.	Ça va.
+Listen.	Écoutez !
+No way!	Impossible !
+No way!	En aucun cas.
+No way!	C'est hors de question !
+No way!	Il n'en est pas question !
+No way!	C'est exclu !
+No way!	En aucune manière !
+No way!	Hors de question !
+Really?	Vraiment ?
+Really?	Vrai ?
+Really?	Ah bon ?
+Thanks.	Merci !
+We try.	On essaye.
+We won.	Nous avons gagné.
+We won.	Nous gagnâmes.
+We won.	Nous l'avons emporté.
+We won.	Nous l'emportâmes.
+Ask Tom.	Demande à Tom.
+Awesome!	Fantastique !
+Be calm.	Sois calme !
+Be calm.	Soyez calme !
+Be calm.	Soyez calmes !
+Be cool.	Sois détendu !
+Be fair.	Sois juste !
+Be fair.	Soyez juste !
+Be fair.	Soyez justes !
+He is very angry.	Il est fort en colère.
+He is very brave.	Il est très courageux.
+He is very brave.	Il est fort courageux.
+He is very young.	Il est très jeune.
+He is well-liked.	Il est bien apprécié.
+He isn't at home.	Il n'est pas à la maison.
+He isn't married.	Il n'est pas marié.
+He isn't perfect.	Il n'est pas parfait.
+He keeps a diary.	Il tient un journal intime.
+He kept his word.	Il a tenu parole.
+He kept his word.	Il tint parole.
+He knows his job.	Il connaît son métier.
+He knows my wife.	Il connait ma femme.
+He laughed at me.	Il rit de moi.
+He laughed at me.	Il a ri de moi.
+He laughed at me.	Il me rit au nez.
+He laughed at me.	Il m'a ri au nez.
+He left after me.	Il est parti après moi.
+He left his wife.	Il a quitté sa femme.
+He left his wife.	Il a quitté son épouse.
+He likes animals.	Il aime les animaux.
+He likes fishing.	Il aime pêcher.
+He likes hunting.	Il aime chasser.
+He likes oranges.	Il aime les oranges.
+He likes to hunt.	Il aime chasser.
+He looked around.	Il a regardé aux alentours.
+He looks healthy.	Il a l'air en bonne santé.
+He loves animals.	Il adore les animaux.
+He loves singing.	Il adore chanter.
+He made me do it.	Il me l'a fait faire.
+He made no reply.	Il ne fit pas de réponse.
+He made no reply.	Il n'a pas répondu.
+He made no reply.	Il ne répondit pas.
+He made no reply.	Il n'a pas fait de réponse.
+He meant no harm.	Il n'avait pas de mauvaise intention.
+He meant no harm.	Il ne pensait pas à mal.
+He moves quickly.	Il se meut rapidement.
+He must be tired.	Il doit être fatigué.
+He must love you.	Il doit t'aimer.
+He must not live.	Il ne doit pas vivre.
+He needs a towel.	Il lui faut une serviette.
+He painted a dog.	Il a peint un chien.
+He painted a dog.	Il peignit un chien.
+He played tennis.	Il a joué au tennis.
+He ran into debt.	Il s'est endetté.
+He ratted us out.	Il nous a dénoncés.
+He ratted us out.	Il nous a dénoncées.
+He remained dumb.	Il est resté silencieux.
+He retired at 65.	Il a pris sa retraite à 65 ans.
+He saved my life.	Il m'a sauvé la vie.
+He scares easily.	Il prend facilement peur.
+He shall have it.	Il doit l'avoir !
+He shares a room.	Il partage une chambre.
+He shut the door.	Il ferma la porte.
+He slept all day.	Il a dormi toute la journée.
+He slept an hour.	Il a dormi une heure.
+He slept an hour.	Il dormit une heure.
+He slept soundly.	Il dormait profondément.
+He speaks French.	Il parle français.
+He speaks French.	Il parle le français.
+He told everyone.	Il le dit à tout le monde.
+He told everyone.	Il l'a dit à tout le monde.
+He took his book.	Il a pris son livre.
+He took his book.	Il a pris son ouvrage.
+He took his time.	Il prit son temps.
+He took his time.	Il a pris son temps.
+He turned around.	Il tourna autour.
+He used his head.	Il a utilisé sa tête.
+He wants to come.	Il veut venir.
+He was acquitted.	Il fut acquitté.
+He was acquitted.	Il a été acquitté.
+He was all wrong.	Il avait tout faux.
+He was born rich.	Il est né riche.
+He was deaf, too.	Il était aussi sourd.
+He was impressed.	Il fut impressionné.
+He was impressed.	Il a été impressionné.
+He was in France.	Il était en France.
+He was intrigued.	Il fut intrigué.
+He was intrigued.	Il a été intrigué.
+He was tenacious.	Il était tenace.
+He was very poor.	Il était très pauvre.
+He was very poor.	Il était fort pauvre.
+He wears glasses.	Il porte des lunettes.
+He wears pajamas.	Il porte un pyjama.
+He went far away.	Il est parti très loin.
+He went shopping.	Il alla faire des courses.
+He went shopping.	Il est allé faire des courses.
+He went shopping.	Il alla faire des emplettes.
+He went shopping.	Il est allé faire des emplettes.
+He will be ready.	Il sera prêt.
+He won't make it.	Il n'y parviendra pas.
+He won't make it.	Il n'y arrivera pas.
+He works Sundays.	Il travaille le dimanche.
+He writes Arabic.	Il écrit arabe.
+He'll understand.	Il comprendra.
+He's a bartender.	C'est un tenancier de bar.
+He's a bartender.	Il est tenancier de bar.
+He's a bit drunk.	Il est un peu ivre.
+He's a bit naive.	Il est un peu naïf.
+He's a bit naive.	Il est un peu niais.
+He's a bit tipsy.	Il est un peu éméché.
+He's a cat lover.	Il adore les chats.
+He's a gentleman.	C'est un gentleman.
+He's a good liar.	Il est bon menteur.
+He's a grown man.	C'est un adulte.
+He's a historian.	Il est historien.
+He's a nonsmoker.	Il est non-fumeur.
+He's a sophomore.	C'est un étudiant de deuxième année.
+He's a sweet guy.	C'est un gentil garçon.
+He's about to go.	Il est sur le point de partir.
+He's about to go.	Il est sur le point d'y aller.
+He's about to go.	Il est sur le point de s'en aller.
+He's at her side.	Il est à son côté.
+He's at her side.	Il se trouve à son côté.
+He's getting old.	Il se fait vieux.
+He's got the flu.	Il a la grippe.
+He's here for me.	Il est ici pour moi.
+He's here for me.	Il est là pour moi.
+He's in my class.	Il est dans la même classe que moi.
+He's intelligent.	Il est intelligent.
+He's just a liar.	Ce n'est qu'un menteur.
+He's kind of shy.	Il est assez timide.
+He's love struck.	Il a le coup de foudre.
+He's new in town.	Il est nouveau en ville.
+He's not at home.	Il n'est pas chez lui.
+He's not at home.	Il n'est pas à la maison.
+He's not like us.	Il n'est pas comme nous.
+He's not married.	Il n'est pas marié.
+He's not my type.	Il n'est pas mon genre.
+He's not perfect.	Il n'est pas parfait.
+He's not serious.	Il n'est pas sérieux.
+He's open-minded.	Il est ouvert d'esprit.
+He's open-minded.	Il a l'esprit ouvert.
+He's out of town.	Il n'est pas en ville.
+He's out of town.	Il ne se trouve pas en ville.
+He's ready to go.	Il est prêt à partir.
+He's ready to go.	Il est prêt à y aller.
+He's still alive.	Il est encore en vie.
+He's still alive.	Il est toujours en vie.
+He's such a jerk.	C'est un de ces pauvres types !
+He's such a jerk.	C'est un tel pauvre type !
+He's unconscious.	Il est inconscient.
+He's watching me.	Il m'observe.
+He's your father.	Il est ton père.
+He's your father.	Il est votre père.
+He's your friend.	Il est ton ami.
+He's your friend.	Il est votre ami.
+He's your friend.	C'est votre ami.
+Heaven knows why.	Le ciel le sait pourquoi.
+Help me out here.	Aide-moi à sortir de là !
+Help me out here.	Aidez-moi à sortir de là !
+Help me out here.	Aide-moi à sortir d'ici !
+Help me out here.	Aidez-moi à sortir d'ici !
+Her hair is long.	Ses cheveux sont longs.
+Here is the bill.	Voici la facture.
+Here is your bag.	Ton sac est ici.
+Here is your bag.	Voici ton sac.
+Here is your bag.	Voilà ton sac.
+Here is your bag.	Voici ton sac !
+Here is your dog.	Ton chien est là.
+Here is your dog.	Voici ton chien.
+Here is your dog.	Voici votre chien.
+Here is your key.	Voici votre clé.
+Here's my chance.	Voilà ma chance.
+Here's your beer.	Voici ta bière.
+Here's your milk.	Voici votre lait.
+Here's your milk.	Voici ton lait.
+Here, drink this.	Voici, bois ceci !
+Hi! I'm new here.	Salut ! Je suis nouveau, ici.
+Hold on a minute.	Attends un peu !
+Hold on a minute.	Attendez un peu !
+Hold on a minute.	Attends voir !
+Hold on a minute.	Attendez voir !
+Hold on a minute.	Attends une minute !
+Hold on a minute.	Attendez une minute !
+How about a beer?	Que dis-tu d'une chope ?
+How are the kids?	Comment se portent les enfants ?
+How cool is this?	Tu trouves pas que c'est bonnard ?
+How cool is this?	Vous ne trouvez pas que c'est bonnard ?
+How do you do it?	Comment le fais-tu ?
+How does it feel?	Ça fait quoi ?
+How does it feel?	Qu'est-ce que ça fait ?
+How does it feel?	Que ressent-on ?
+How does it feel?	Que ressens-tu ?
+How does it feel?	Que ressentez-vous ?
+How does it look?	De quoi ça a l'air ?
+How does it work?	Comment ça marche ?
+How does it work?	Comment cela fonctionne-t-il ?
+How embarrassing!	Comme c'est embarrassant !
+How good are you?	Jusqu'à quel point es-tu bon ?
+How good are you?	Jusqu'à quel point es-tu bonne ?
+How good are you?	Jusqu'à quel point êtes-vous bon ?
+How good are you?	Jusqu'à quel point êtes-vous bonne ?
+How good are you?	Jusqu'à quel point êtes-vous bons ?
+How good are you?	Jusqu'à quel point êtes-vous bonnes ?
+How is your cold?	Comment va votre rhume ?
+How is your wife?	Comment va ta femme ?
+How lucky we are!	Quelle chance nous avons !
+How much is that?	Combien cela coûte-t-il ?
+How strong he is!	Comme il est fort !
+How stupid he is!	Quel imbécile il fait !
+How stupid of me!	Comme c'est bête de ma part !
+How tall are you?	Combien mesures-tu ?
+How tall you are!	Qu'est-ce que tu es grand !
+How tall you are!	Comme tu es grand !
+How tall you are!	Que tu es grand !
+How tall you are!	Que vous êtes grand !
+How tall you are!	Que vous êtes grande !
+How tall you are!	Que vous êtes grandes !
+How tall you are!	Que vous êtes grands !
+How tall you are!	Que tu es grande !
+How tall you are!	Comme tu es grande !
+How tall you are!	Comme vous êtes grandes !
+How tall you are!	Comme vous êtes grande !
+How tall you are!	Comme vous êtes grands !
+How tall you are!	Comme vous êtes grand !
+How unlucky I am!	Quel malchanceux je suis !
+How unlucky I am!	Comme je suis malchanceux !
+How very curious!	Comme c'est vraiment étrange !
+How very curious!	Comme c'est vraiment curieux !
+How was your day?	Comment s'est passée ta journée ?
+How you've grown!	Comme tu as grandi !
+How're you doing?	Comment vas-tu ?
+How're you doing?	Comment allez-vous ?
+How's that again?	Tu dis ?
+How's that again?	Vous dites ?
+How's that again?	Comment dis-tu ?
+How's that again?	Comment dites-vous ?
+Hurry up, please.	Dépêche-toi, je te prie !
+Hurry up, please.	Dépêchons, je vous prie !
+Hurry up, please.	Dépêchez-vous, je vous prie !
+I abhor violence.	Je déteste la violence.
+I agree with him.	Je suis d'accord avec lui.
+I agree with him.	Je suis d’accord avec lui.
+I agree with you.	Je suis d'accord avec vous.
+I agree with you.	Je suis de ton avis.
+I agree with you.	Je suis d’accord avec vous.
+I almost drowned.	Je me suis presque noyé.
+I almost drowned.	Je me suis presque noyée.
+I already did it.	Je l'ai déjà fait.
+I am a bit drunk.	Je suis un peu ivre.
+I am a foreigner.	Je suis étranger.
+I am a housewife.	Je suis femme au foyer.
+I am a masochist.	Je suis masochiste.
+I am a professor.	Je suis professeur.
+I am a volunteer.	Je suis volontaire.
+I am an American.	Je suis américain.
+I am an American.	Je suis américaine.
+I am cooking now.	Je cuisine en ce moment.
+I am dumbfounded.	Je suis sidéré.
+I am from Brazil.	Je viens du Brésil.
+I am from France.	Je viens de France.
+I am from Russia.	Je viens de Russie.
+I am frying fish.	Je fais frire du poisson.
+I am not kidding.	Je ne blague pas.
+I am on duty now.	Maintenant je suis en service.
+I am on duty now.	Je suis actuellement en service.
+I am only joking.	Je ne fais que blaguer.
+I am out of time.	Je suis à court de temps.
+I am out of work.	Je suis au chômage.
+I am out of work.	Je suis sans travail.
+I am paid weekly.	Je suis payée à la semaine.
+I am pretty sure.	Je suis relativement sûr.
+I am truly sorry.	Je suis vraiment désolé.
+I am truly sorry.	Je suis vraiment désolée.
+I appreciated it.	Je l'ai apprécié.
+I ate on the bus.	J'ai mangé dans le bus.
+I began to speak.	J'ai commencé à parler.
+I began to sweat.	Je me mis à transpirer.
+I began to sweat.	Je me suis mis à transpirer.
+I begin tomorrow.	Je commence demain.
+I believe in God.	Je crois en Dieu.
+I believe in him.	J'ai confiance en lui.
+I believe in him.	Je crois en lui.
+I believe in you.	Je crois en toi.
+I bought a house.	J'ai acheté une maison.
+I bought a house.	J'ai fait l'acquisition d'une maison.
+I bought a house.	J'ai procédé à l'acquisition d'une maison.
+I bought a watch.	J'ai acheté une montre.
+I bowed politely.	Je m'inclinai poliment.
+I bowed politely.	Je me suis poliment incliné.
+I bowed politely.	Je me suis poliment inclinée.
+I brought a book.	J'ai apporté un livre.
+I brought a book.	J'ai apporté un ouvrage.
+I brought dinner.	J'ai apporté à dîner.
+I called earlier.	J'ai appelé plus tôt.
+I called him Tom.	Je l'ai appelé Tom.
+I came yesterday.	Je suis venu hier.
+I came yesterday.	Je suis venue hier.
+I can reschedule.	Je peux remettre.
+I can't budge it.	Je n'arrive pas à le bouger.
+I can't complain.	Je ne peux pas me plaindre.
+I can't eat meat.	Je ne peux pas manger de viande.
+I can't eat pork.	Je ne peux pas manger de porc.
+I can't eat pork.	Je n'arrive pas à manger du porc.
+I can't find Tom.	Je n'arrive pas à trouver Tom.
+I can't fix this.	Je n'arrive pas à réparer ceci.
+I can't join you.	Je ne peux me joindre à vous.
+I can't reach it.	Je ne peux pas l'atteindre.
+I can't remember.	Je n'arrive pas à me souvenir.
+I can't remember.	Je n'arrive pas à m'en rappeler.
+I can't see well.	Je n'ai pas une très bonne vue.
+I can't see well.	Je ne vois pas très bien.
+I can't see well.	Je ne parviens pas à bien voir.
+I can't show you.	Je ne peux pas te le montrer.
+I can't show you.	Je ne peux pas vous le montrer.
+I can't show you.	Je n'arrive pas à te le montrer.
+I can't show you.	Je n'arrive pas à vous le montrer.
+I can't stand up.	Je ne peux pas me redresser.
+I can't stop Tom.	Je ne peux pas arrêter Tom.
+I can't stop Tom.	Je ne peux pas stopper Tom.
+I cannot whistle.	Je ne sais pas siffler.
+I caught the flu.	J'ai chopé la grippe.
+I confiscated it.	Je l'ai confisqué.
+I confiscated it.	Je l'ai confisquée.
+I could kiss you.	Je pourrais t'embrasser.
+I could kiss you.	Je pouvais t'embrasser.
+I could kiss you.	Je pourrais vous embrasser.
+I could kiss you.	Je pouvais vous embrasser.
+I could see that.	Je m'en suis aperçu.
+I could see that.	Je m'en suis aperçue.
+I could've cried.	J'aurais pu pleurer.
+I couldn't speak.	Je ne pouvais pas parler.
+I couldn't speak.	Je ne pourrais pas parler.
+I couldn't stand.	Je ne pourrais pas tenir.
+I couldn't stand.	Je n'arriverais pas à tenir.
+I deserve better.	Je mérite mieux.
+I did everything.	J'ai tout fait.
+I did it already.	Je l'ai déjà fait.
+I did it for him.	Je le fis pour lui.
+I did it for him.	Je l'ai fait pour lui.
+I did it for you.	Je l'ai fait pour toi.
+I did it for you.	Je l'ai fait pour vous.
+I did it for you.	Je le fis pour toi.
+I did it for you.	Je le fis pour vous.
+I did it quickly.	Je le fis rapidement.
+I did it quickly.	Je l'ai fait rapidement.
+I didn't hear it.	Je ne l'ai pas entendu.
+I didn't hear it.	Je ne l'ai pas entendue.
+I didn't like it.	Je n'ai pas aimé.
+I didn't like it.	Ça ne me plaisait pas.
+I didn't mean it.	Ce n'était pas mon intention.
+I didn't mean it.	Je ne l'ai pas fait exprès.
+I didn't see her.	Je ne l'ai pas vue.
+I didn't see him.	Je ne l'ai pas vu.
+I didn't see him.	Je ne le vis pas.
+I didn't see you.	Je ne t'ai pas vu.
+I didn't see you.	Je ne t'ai pas vue.
+I didn't see you.	Je ne vous ai pas vu.
+I didn't see you.	Je ne vous ai pas vue.
+I didn't see you.	Je ne vous ai pas vus.
+I didn't see you.	Je ne vous ai pas vues.
+I didn't take it.	Je ne l'ai pas pris.
+I didn't take it.	Je n'ai pas pris ça.
+I dislike coffee.	Je n'aime pas le café.
+I disregarded it.	Je n'en ai pas tenu compte.
+I do believe you.	Je te crois vraiment.
+I do believe you.	Je vous crois vraiment.
+I do have a plan.	J'ai vraiment un plan.
+I don't allow it.	Je ne le permets pas.
+I don't buy that.	Tu parles, Charles.
+I don't buy that.	Je ne l'accepte pas.
+I don't disagree.	Je n'y suis pas opposé.
+I don't disagree.	Je n'y suis pas opposée.
+I don't do drugs.	Je ne fais pas dans la drogue.
+I don't eat meat.	Je ne mange pas de viande.
+I don't eat pork.	Je ne mange pas de viande de porc.
+I don't envy you.	Je ne t'envie pas.
+I don't hate him.	Je ne le hais pas.
+I don't hate you.	Je ne vous hais pas.
+I don't hate you.	Je ne vous hais point.
+I don't hate you.	Je ne te hais pas.
+I don't hate you.	Je ne te hais point.
+I don't have one.	Je n'en ai pas.
+I don't know her.	Je ne la connais pas.
+I don't know him.	Je ne le connais pas.
+I don't know why.	Je ne sais pas pourquoi.
+I don't know yet.	Je ne sais pas encore.
+I don't know you.	Je ne vous connais pas.
+I don't know you.	Je ne te connais pas.
+I don't like her.	Je ne l'aime pas.
+I don't like him.	Je ne l'aime pas.
+I don't love her.	Je ne l'aime pas.
+I don't love her.	Je n'en suis pas amoureux.
+I don't love her.	Je ne suis pas épris d'elle.
+I don't mean you.	Je ne veux pas dire toi.
+I don't mean you.	Je ne veux pas dire vous.
+I don't need Tom.	Je n'ai pas besoin de Tom.
+I don't remember.	Je ne me souviens pas.
+I don't think so.	Je ne crois pas.
+I don't think so.	Je pense que non.
+I don't watch TV.	Je ne regarde pas la télé.
+I drank the wine.	Je bus le vin.
+I drink tea, too.	Je bois également du thé.
+I drink to relax.	Je bois pour me détendre.
+I drive a hybrid.	Je conduis un véhicule hybride.
+I enjoy swimming.	J'aime la natation.
+I enjoyed myself.	Je me suis amusé.
+I enjoyed myself.	Je me suis amusée.
+I expected worse.	Je m'attendais à pire.
+I feel all right.	Je me sens tout à fait bien.
+I feel bad today.	Je me sens mal aujourd'hui.
+I feel empowered.	Je me sens investi de pouvoir.
+I feel empowered.	Je me sens investie de pouvoir.
+I feel empowered.	Je me sens investi de pouvoirs.
+I feel empowered.	Je me sens investie de pouvoirs.
+I feel flattered.	Je me sens flatté.
+I feel flattered.	Je me sens flattée.
+I feel powerless.	Je me sens impuissant.
+I feel powerless.	Je me sens impuissante.
+I feel protected.	Je me sens protégé.
+I feel protected.	Je me sens protégée.
+I feel refreshed.	Je me sens revigoré.
+I feel safe here.	Je me sens en sécurité, ici.
+I feel safe here.	Je me sens ici en sécurité.
+I feel so pretty.	Je me sens tellement jolie !
+I feel so stupid.	Je me sens si stupide.
+I feel very cold.	J'ai très froid.
+I feel very sick.	Je me sens très malade.
+I feel wonderful.	Je me sens merveilleusement bien.
+I feel wonderful.	Je me sens à merveille.
+I feel your pain.	Je compatis à ta douleur.
+I feel your pain.	Je compatis à votre douleur.
+I felt depressed.	Je me sentis déprimé.
+I felt depressed.	Je me sentis déprimée.
+I felt depressed.	Je me suis senti déprimé.
+I felt depressed.	Je me suis senti déprimée.
+I felt powerless.	Je me suis senti impuissant.
+I felt powerless.	Je me suis senti impuissante.
+I felt wonderful.	J'ai eu un sentiment merveilleux.
+I felt wonderful.	Je me suis senti très bien.
+I felt wonderful.	Je me suis sentie très bien.
+I finished first.	J'ai terminé premier.
+I finished first.	J'ai terminé première.
+I forgot the map.	J'ai oublié la carte.
+I found it there.	Je l'ai trouvé là.
+I found my shoes.	J'ai trouvé mes chaussures.
+I found somebody.	J'ai trouvé quelqu'un.
+I found your cap.	J'ai trouvé ta casquette.
+I gave Tom a hug.	J'ai donné un câlin à Tom.
+I gave up my job.	J'ai quitté mon boulot.
+I gave up my job.	J'ai laissé tomber mon poste.
+I go to the park.	Je vais au parc.
+I got goosebumps.	J'ai la chair de poule.
+I got her a doll.	Je lui ai acheté une poupée.
+I got home first.	Je suis rentré le premier à la maison.
+I got paid today.	J'ai été payé aujourd'hui.
+I got paid today.	J'ai été payée aujourd'hui.
+I got really mad.	Je me suis vraiment mis en colère.
+I got really mad.	Je me suis vraiment mise en colère.
+I guess we could.	Je suppose que nous pourrions.
+I had a hard day.	J'ai eu une dure journée.
+I had a headache.	J'ai eu un mal de tête.
+I had a headache.	J'ai eu mal au crâne.
+I had my reasons.	J'avais mes raisons.
+I had to be sure.	Je devais être sûr.
+I had to be sure.	Je devais être sûre.
+I had to go back.	J'ai dû retourner.
+I had to go back.	Il m'a fallu retourner.
+I had to go back.	Il me fallut y retourner.
+I had to go back.	Il m'a fallu y retourner.
+I had to see you.	Je devais vous voir.
+I had to see you.	Je devais te voir.
+I had to see you.	Il me fallait vous voir.
+I had to see you.	Il me fallait te voir.
+I had to see you.	Il m'a fallu vous voir.
+I had to see you.	Il m'a fallu te voir.
+I hate Halloween.	Je déteste Halloween.
+I hate chemistry.	Je déteste la chimie.
+I hate computers.	Je déteste les ordinateurs.
+I hate hypocrisy.	Je déteste l'hypocrisie.
+I hate my sister.	Je déteste ma sœur.
+I hate paperwork.	Je déteste les tâches administratives.
+I hate paperwork.	Je déteste la paperasse.
+I hate surprises.	Je déteste les surprises.
+I hate that book.	Je déteste ce bouquin.
+I hate that book.	Je déteste ce livre.
+I hate that idea.	Je déteste cette idée.
+I hate that song.	Je déteste cette chanson.
+I hate this game.	Je déteste ce jeu.
+I hate this song.	Je déteste cette chanson.
+I hate this town.	Je déteste cette ville.
+I hate this town.	Je déteste cette bourgade.
+I hate traveling.	Je déteste voyager.
+I hate your guts.	Je déteste votre audace.
+I have Tom's key.	J'ai les clefs de Tom.
+I have a bicycle.	Je dispose d'un vélo.
+I have a big dog.	J'ai un grand chien.
+I have a diploma.	Je dispose d'un diplôme.
+I have a grenade.	J'ai une grenade.
+I have a problem.	J'ai un problème.
+I have a receipt.	J'ai un reçu.
+I have a receipt.	J'ai une quittance.
+I have a red car.	J'ai une voiture rouge.
+I have allergies.	Je suis sujet à des allergies.
+I have allergies.	Je suis sujette à des allergies.
+I have asked him.	Je lui ai demandé.
+I have been busy.	J'ai été occupé.
+I have few books.	J'ai peu de livres.
+I have forgotten.	J'ai oublié.
+I have hay fever.	J'ai le rhume des foins.
+I have heartburn.	J'ai des brûlures d'estomac.
+I have insurance.	Je dispose d'une assurance.
+I have no choice.	Je n'ai pas le choix.
+I have no excuse.	Je n'ai pas d'excuse.
+I have no excuse.	Je n'ai aucune excuse.
+I have no excuse.	Je suis dépourvu d'excuse.
+I have no family.	Je n'ai pas de famille.
+I have one child.	J'ai un enfant.
+I have one child.	J'ai une enfant.
+I have questions.	J'ai des questions.
+I have some food.	J'ai quelque chose à manger.
+I have some time.	J'ai du temps.
+I have some time.	Je dispose de temps.
+I have something.	J'ai quelque chose.
+I have sore feet.	Mes pieds me font mal.
+I have standards.	J'ai des critères.
+I have standards.	J'ai des étendards.
+I have standards.	J'ai des principes.
+I have to change.	Il faut que je change.
+I have to change.	Il me faut changer.
+I have to go now.	Il faut que j'y aille, maintenant.
+I have two books.	J'ai deux livres.
+I hear something.	J'entends quelque chose.
+I heard coughing.	J'ai entendu tousser.
+I heard it on TV.	Je l'ai entendu à la télé.
+I hope you agree.	J'espère que tu es d'accord.
+I just got a job.	Je viens d'avoir un boulot.
+I just got a job.	Je viens d'obtenir un boulot.
+I just got fired.	Je viens de me faire virer.
+I just love that.	J'adore ça, tout simplement.
+I just opened it.	Je viens de l'ouvrir.
+I kicked the dog.	J'ai filé un coup de pied au chien.
+I knew the risks.	Je connaissais les risques.
+I know I'm wrong.	Je sais que j'ai tort.
+I know he did it.	Je sais qu'il l'a fait.
+I know it myself.	Je le sais moi-même.
+I know only this.	Je sais seulement cela.
+I know the drill.	Je connais la chanson.
+I know the truth.	Je connais la vérité.
+I know this song.	Je connais cette chanson.
+I know your face.	Je connais ton visage.
+I know your name.	Je connais ton nom.
+I know your name.	Je connais votre nom.
+I know your type.	Je connais votre genre.
+I know your type.	Je connais ton genre.
+I lay on my face.	J'étais allongé sur le ventre.
+I left a message.	J'ai laissé un message.
+I let the cat in.	J'ai laissé entrer le chat.
+I let the cat in.	Je laisse entrer le chat.
+I like astrology.	J'aime l'astrologie.
+I like fresh air.	J'apprécie l'air frais.
+I like her novel.	J'aime son roman.
+I like math best.	Ce sont les maths que je préfère.
+I like mysteries.	J'aime les mystères.
+I like surprises.	J'aime les surprises.
+I like that song.	J'aime cette chanson.
+I like the beach.	J'aime la plage.
+I like these two.	J'aime ces deux-ci.
+I like this book.	J'aime cet ouvrage.
+I like this book.	J'aime ce livre.
+I like this game.	J'apprécie cette manche.
+I like this room.	J'aime cette pièce.
+I like this room.	J'aime cette chambre.
+I like this song.	J'aime cette chanson.
+I like to travel.	J’aime voyager.
+I like traveling.	J’aime voyager.
+I like what I do.	J'apprécie ce que je fais.
+I like your city.	J'aime ta ville.
+I like your hair.	J'aime tes cheveux.
+I like your hair.	J'aime vos cheveux.
+I lit the candle.	J'allumai la chandelle.
+I lit the candle.	J'allumai le cierge.
+I lit the candle.	J'allumai la bougie.
+I live in Boston.	Je vis à Boston.
+I live in Boston.	J'habite à Boston.
+I live in Tahiti.	Je vis à Tahiti.
+I live in Tahiti.	J'habite à Tahiti.
+I live next door.	Je vis la porte à côté.
+I lost my camera.	J'ai perdu mon appareil photo.
+I lost my temper.	Je perdis patience.
+I lost my wallet.	J'ai perdu mon portefeuille.
+I lost the watch.	J'ai perdu ma montre.
+I lost the watch.	J’ai perdu ma montre.
+I love Christmas.	J'adore Noël.
+I love astronomy.	J'adore l'astronomie.
+I love chocolate.	J'adore le chocolat.
+I love gardening.	J'adore jardiner.
+I love libraries.	J'adore les bibliothèques.
+I love my family.	J'adore ma famille.
+I love my mother.	J'adore ma mère.
+I love old books.	J'adore les ouvrages anciens.
+I love soul food.	J'adore les nourritures de l'esprit.
+I love surprises.	J'adore les surpises.
+I love that idea.	J'adore cette idée.
+I love that show.	J'adore ce spectacle.
+I love that song.	J'adore cette chanson.
+I love this game.	J'adore ce jeu.
+I love this game.	J'adore cette partie.
+I love this game.	J'adore cette manche.
+I love this part.	J'adore cette partie.
+I love this part.	J'adore ce rôle.
+I love this show.	J'adore ce spectacle.
+I love this song.	J'adore cette chanson.
+I love this town.	J'adore cette ville.
+I love traveling.	J'adore voyager.
+I love what I do.	J'adore ce que je fais.
+I love you a lot.	Je t'aime beaucoup.
+I love your city.	J'aime ta ville.
+I love your eyes.	J'adore vos yeux.
+I love your eyes.	J'adore tes yeux.
+I love your hair.	J'adore tes cheveux.
+I loved that car.	J'ai adoré cette voiture.
+I loved that dog.	J'ai adoré ce chien.
+I loved the play.	J'ai adoré la pièce.
+I made Tom laugh.	J'ai fait rire Tom.
+I made a fortune.	J'ai amassé une fortune.
+I made a mistake.	J'ai commis une erreur.
+I made a promise.	J'ai fait une promesse.
+I made a promise.	Je fis une promesse.
+I made a snowman.	J’ai fait un bonhomme de neige.
+I made breakfast.	J'ai préparé le petit-déjeuner.
+I made him do so.	Je le lui ai fait faire.
+I made it myself.	Je l'ai confectionné moi-même.
+I made it myself.	Je l'ai confectionnée moi-même.
+I made it myself.	Je l'ai confectionné par moi-même.
+I made it myself.	Je l'ai fait moi-même.
+I may be too old.	Je suis peut-être trop vieux.
+I may be too old.	Peut-être suis-je trop vieux.
+I met my friends.	J'ai rencontré mes amis.
+I might be wrong.	Il se peut que j'aie tort.
+I miss her a lot.	Elle me manque fort.
+I miss her a lot.	Elle me manque beaucoup.
+I miss you badly.	Tu me manques beaucoup.
+I miss you badly.	Tu me manques énormément.
+I missed the bus.	J'ai raté le bus.
+I missed the bus.	J'ai manqué le bus.
+I missed the bus.	J'ai loupé le bus.
+I must apologize.	Je dois faire mes excuses.
+I must get going.	Je dois y aller.
+I must get going.	Il faut que j'y aille.
+I must leave now.	Je dois partir maintenant.
+I must warn them.	Je dois les prévenir.
+I must warn them.	Il me faut les prévenir.
+I nearly starved.	Je suis presque mort de faim.
+I nearly starved.	Je mourus presque de faim.
+I need a Kleenex.	Il me faut un Kleenex.
+I need a Kleenex.	J'ai besoin d'un Kleenex.
+I need a haircut.	J'ai besoin de me faire couper les cheveux.
+I need a partner.	J'ai besoin d'un partenaire.
+I need a partner.	J'ai besoin d'une partenaire.
+I need all of it.	J'ai besoin du tout.
+I need an escort.	J'ai besoin d'une escorte.
+I need an escort.	J'ai besoin d'une hôtesse.
+I need envelopes.	J'ai besoin d'enveloppes.
+I need more gold.	J'ai besoin de plus d'or.
+I need more gold.	J'ai besoin de davantage d'or.
+I need more time.	J'ai besoin de plus de temps.
+I need new shoes.	J'ai besoin de nouvelles chaussures.
+I need new tires.	J'ai besoin de nouveaux pneus.
+I need new tires.	Il me faut des pneus neufs.
+I need some cash.	Il me faut du liquide.
+I need some cash.	J'ai besoin de liquide.
+I need some soap.	J'ai besoin de savon.
+I need subtitles.	J'ai besoin de sous-titres.
+I need the money.	J'ai besoin de l'argent.
+I need to travel.	Il faut que je voyage.
+I need to travel.	J'ai besoin de voyager.
+I need your help.	J'ai besoin que tu m'aides.
+I need your help.	J'ai besoin de ton aide.
+I never did that.	Je ne l'ai jamais fait.
+I never did that.	Je n'ai jamais fait ça.
+I never sleep in.	Je ne fais jamais la grasse matinée.
+I never sleep in.	Je ne dors jamais sur mon lieu de travail.
+I never told Tom.	Je ne l’ai jamais dit à Tom.
+I opened one eye.	J'ouvris un œil.
+I opened one eye.	J'ai ouvert un œil.
+I owe him a debt.	J'ai une dette envers lui.
+I owe him a debt.	J'ai une dette à son égard.
+I owe you a beer.	Je te dois une bière.
+I owe you a beer.	Je vous dois une bière.
+I own a computer.	Je possède un ordinateur.
+I own this place.	Je possède cet endroit.
+I own this store.	Je possède ce magasin.
+I paid attention.	J'ai fait attention.
+I paid attention.	J'ai prêté attention.
+I paid the check.	J'ai payé l'addition.
+I party too much.	Je fais trop la fête.
+I party too much.	Je fais trop la nouba.
+I pay my own way.	Je peux me gérer seul.
+I pay my own way.	Je paie mes propres dettes.
+I planted a tree.	J'ai planté un arbre.
+I play the piano.	Je joue du piano.
+I pointed at him.	Je l'ai désigné.
+I prefer reading.	Je préfère lire.
+I prefer to read.	Je préfère lire.
+I prefer to walk.	Je préfère marcher.
+I prefer walking.	Je préfère marcher.
+I ran downstairs.	Je me précipitai au bas des escaliers.
+I ran downstairs.	Je me suis précipité en bas.
+I ran downstairs.	Je me suis précipitée en bas.
+I ran out of gas.	Je tombai en panne d'essence.
+I ran out of gas.	Je suis tombé en panne d'essence.
+I ran out of gas.	Je suis tombée en panne d'essence.
+I really am busy.	Je suis vraiment occupé.
+I really am busy.	Je suis vraiment occupée.
+I really hope so.	Je l’espère vraiment.
+I really hope so.	Je l’espère de tout mon cœur.
+I really hurried.	Je me suis vraiment dépêché.
+I really hurried.	Je me suis vraiment dépêchée.
+I really mean it.	Je suis sérieux.
+I really mean it.	Je suis sérieuse.
+I really need it.	J'en ai vraiment besoin.
+I recommend this.	Je recommande ceci.
+I refused to pay.	Je refusai de payer.
+I refused to pay.	J'ai refusé de payer.
+I refused to pay.	Je me refusai à payer.
+I refused to pay.	Je me suis refusé à payer.
+I regret nothing.	Je ne regrette rien.
+I require advice.	Je requiers des conseils.
+I rubbed my feet.	Je me suis frotté les pieds.
+I run this place.	Je fais marcher cet endroit.
+I said stay back.	J'ai dit de rester en arrière.
+I sat beside her.	Je m'assis à côté d'elle.
+I saw everything.	J'ai tout vu.
+I saw him go out.	Je l'ai vu sortir.
+I see your house.	Je vois votre maison.
+I see your house.	Je vois ta maison.
+I see your point.	Je vois ce que tu veux dire.
+I see your point.	Je vois ce que vous voulez dire.
+I seldom see him.	Je le vois rarement.
+I sell computers.	Je vends des ordinateurs.
+I sell umbrellas.	Je vends des parapluies.
+I started crying.	Je me suis mis à pleurer.
+I started crying.	Je me suis mise à pleurer.
+I started to cry.	J'ai commencé à pleurer.
+I still like Tom.	J'aime toujours Tom.
+I still love you.	Je t'aime encore.
+I still love you.	Je vous aime encore.
+I still love you.	Je t'aime toujours.
+I still love you.	Je vous aime toujours.
+I strongly agree.	Je suis tout à fait d'accord.
+I swim every day.	Je nage tous les jours.
+I talk to myself.	Je parle tout seul.
+I talk to myself.	Je me parle.
+I talk to myself.	Je parle à moi-même.
+I think Tom died.	Je pense que Tom est mort.
+I think Tom left.	Je pense que Tom est parti.
+I think it's Tom.	Je pense que c'est Tom.
+I totally forgot.	J'ai complètement oublié.
+I truly hope not.	Je ne l'espère vraiment pas.
+I understand why.	Je comprends pourquoi.
+I understand you.	Je te comprends.
+I understand you.	Je vous comprends.
+I used to be fat.	J'ai été gros.
+I visited Boston.	J'ai visité Boston.
+I waited a month.	J'ai attendu un mois.
+I waited a while.	J'attendis un moment.
+I waited a while.	J'ai attendu un moment.
+I walk every day.	Je marche tous les jours.
+I walk to school.	Je vais à l'école en marchant.
+I want a blanket.	Je veux une couverture.
+I want a divorce.	Je veux divorcer.
+I want a martini.	Je veux un martini.
+I want a pen pal.	Je veux un correspondant.
+I want a rematch.	Je veux une revanche.
+I want a scooter.	Je veux une trottinette.
+I want much more.	Je veux beaucoup plus.
+I want some milk.	Je veux du lait.
+I want that book.	Je veux ce livre.
+I want the facts.	Je veux les faits.
+I want to retire.	Je veux prendre ma retraite.
+I want to retire.	Je veux partir à la retraite.
+I want to retire.	Je veux prendre ma pension.
+I want to see it.	Je veux le voir.
+I want to see it.	Je veux voir ça.
+I want to try it.	Je veux essayer.
+I want to try it.	Je veux le tenter.
+I want us to win.	Je veux que nous gagnions.
+I want vengeance.	Je veux ma vengeance.
+I want you to go.	Je veux que vous partiez.
+I want your love.	Je veux ton amour.
+I want your love.	Je veux ton affection.
+I want your love.	Je veux votre amour.
+I want your love.	Je veux votre affection.
+I wanted to come.	Je voulais venir.
+I was astonished.	Je fus étonné.
+I was astonished.	J'ai été étonné.
+I was born there.	Je suis né là.
+I was born there.	Je suis née là.
+I was devastated.	J'étais anéanti.
+I was devastated.	J'étais anéantie.
+I was distracted.	J'ai été distrait.
+I was distracted.	J'ai été distraite.
+I was dumbstruck.	J'étais sidéré.
+I was frightened.	J'étais apeurée.
+I was frustrated.	J'étais agacé.
+I was frustrated.	J'étais agacée.
+I was happy then.	J'étais heureux, alors.
+I was happy then.	J'étais heureuse, alors.
+I was here first.	J'étais là en premier.
+I was here first.	J'étais là le premier.
+I was humiliated.	On m'a humilié.
+I was humiliated.	On m'a humiliée.
+I was humiliated.	J'ai été humilié.
+I was humiliated.	J'ai été humiliée.
+I was in all day.	Je suis resté à l'intérieur toute la journée.
+I was in all day.	Je suis restée à l'intérieur toute la journée.
+I was in all day.	Je suis resté cloîtré toute la journée.
+I was in all day.	Je suis restée cloîtrée toute la journée.
+I was quite calm.	J'étais plutôt calme.
+I was speechless.	Je fus à court de mots.
+I was speechless.	J’étais sans voix.
+I was speechless.	Je suis resté sans voix.
+I was sure of it.	J'en étais sûr.
+I was sure of it.	J'en étais sûre.
+I was threatened.	On m'a menacé.
+I was threatened.	On m'a menacée.
+I was threatened.	J'ai été menacé.
+I was threatened.	J'ai été menacée.
+I was unprepared.	Je n'étais pas préparé.
+I was unprepared.	Je n'étais pas préparée.
+I was very tired.	J'étais très fatigué.
+I was very tired.	J'étais très fatiguée.
+I was very tired.	J'étais fourbu.
+I was very tired.	J'étais fourbue.
+I washed my feet.	Je me suis lavé les pieds.
+I wasn't invited.	Je n'ai pas été invité.
+I wasn't invited.	Je n'ai pas été invitée.
+I wasn't kidding.	Je n'étais pas en train de blaguer.
+I wasn't serious.	Je n'étais pas sérieux.
+I wasn't serious.	Je n'étais pas sérieuse.
+I waved him back.	Je lui fis signe de la main en retour.
+I went to school.	Je suis allé à l'école.
+I went to school.	Je suis allée à l'école.
+I went to school.	J'ai fréquenté l'école.
+I went to school.	Je me suis rendu à l'école.
+I went to school.	Je me suis rendue à l'école.
+I will shoot him.	Je vais le buter.
+I will shoot him.	Je vais le descendre.
+I will shoot him.	Je vais le flinguer.
+I will teach you.	Je te l'enseignerai.
+I will translate.	Je traduirai.
+I will try again.	J'essaierai à nouveau.
+I wish them luck.	Je leur souhaite bonne chance.
+I won't be quiet.	Je ne serai pas tranquille.
+I won't be quiet.	Je ne me tiendrai pas tranquille.
+I won't need you.	Je n'aurai pas besoin de vous.
+I won't tell Tom.	Je ne le dirai pas à Tom.
+I work in a bank.	Je travaille dans une banque.
+I work on Sunday.	Je travaille le dimanche.
+I work on a farm.	Je travaille dans une ferme.
+I worry too much.	Je me fais trop de souci.
+I worry too much.	Je m'inquiète de trop.
+I would complain.	Je voudrais porter plainte.
+I wrote the note.	J'ai écrit la note.
+I wrote the note.	J'écrivis la note.
+I'd be delighted.	Je serais ravi.
+I'd be delighted.	J'en serais ravi.
+I'd be delighted.	J'en serais ravie.
+I'd be delighted.	Je serais ravie.
+I'd like a raise.	J'aimerais une augmentation.
+I'll be at Tom's.	Je serai chez Tom.
+I'll be discreet.	Je serai discret.
+I'll be discreet.	Je serai discrète.
+I'll be in touch.	Je resterai en contact.
+I'll beat you up!	Je vais te cogner !
+I'll bring lunch.	J'apporterai à déjeuner.
+I'll bring lunch.	J'apporterai à dîner.
+I'll check again.	Je revérifierai.
+I'll clean it up.	Je vais le nettoyer.
+I'll demonstrate.	Je le démontrerai.
+I'll demonstrate.	Je manifesterai.
+I'll do anything.	Je ferai n'importe quoi.
+I'll fix a drink.	Je vais préparer une boisson.
+I'll fix a drink.	Je vais préparer un verre.
+I'll forgive you.	Je te pardonnerai.
+I'll forgive you.	Je vous pardonnerai.
+I'll get my coat.	Je vais chercher mon manteau.
+I'll get my keys.	Je vais prendre mes clés.
+I'll get the car.	Je vais chercher la voiture.
+I'll go by plane.	J'irai en avion.
+I'll go shopping.	J'irai faire des courses.
+I'll go this way.	Je vais aller par là.
+I'll go with you.	J'irai avec toi.
+I'll go with you.	Je vais y aller avec toi.
+I'll go with you.	Je vais y aller avec vous.
+I'll go with you.	J'irai avec vous.
+I'll handle this.	Je m'en chargerai.
+I'll handle this.	Je m'en débrouillerai.
+I'll handle this.	Je m'en occuperai.
+I'll have dinner.	Je déjeunerai.
+I'll ignore that.	Je vais ignorer ça.
+I'll never learn.	Je n'apprendrai jamais.
+I'll never leave.	Je ne partirai jamais.
+I'll pack my bag.	Je ferai mon sac.
+I'll protect Tom.	Je vais protéger Tom.
+I'll protect you.	Je vous protègerai.
+I'll protect you.	Je te protègerai.
+I'll say no more.	Je n'en dirai pas plus.
+I'll shut up now.	Je me tairai, maintenant.
+I'll support him.	Je l'appuierai.
+I'll support him.	Je le soutiendrai.
+I'll support him.	Je l'épaulerai.
+I'll take it all.	Je prendrai le tout.
+I'll treasure it.	J'y serai très attaché.
+I'll try my luck.	Je vais tenter ma chance.
+I'll wash dishes.	Je vais laver les plats.
+I'm 18 years old.	J'ai dix-huit ans.
+I'm 24 years old.	J'ai 24 ans.
+I'm 25 years old.	Je suis âgé de vingt-cinq ans.
+I'm Tom's cousin.	Je suis le cousin de Tom.
+I'm a bank clerk.	Je suis employé de banque.
+I'm a bit hungry.	J'ai un peu faim.
+I'm a lonely man.	Je suis un homme solitaire.
+I'm a normal guy.	Je suis un gars normal.
+I'm a normal guy.	Je suis un type normal.
+I'm a shutterbug.	Je suis un fondu de photo.
+I'm able to swim.	Je sais nager.
+I'm all confused.	Je suis très désorienté.
+I'm all confused.	Je suis très désorientée.
+I'm all for that.	Je suis tout à fait pour.
+I'm already done.	J'ai déjà fini.
+I'm already done.	J'ai déjà terminé.
+I'm already rich.	Je suis déjà riche.
+I'm always happy.	Je suis toujours heureux.
+I'm always happy.	Je suis toujours content.
+I'm always happy.	Je suis toujours heureuse.
+I'm always happy.	Je suis toujours contente.
+I'm always moody.	Je suis toujours de mauvaise humeur.
+I'm ambidextrous.	Je suis ambidextre.
+I'm at the beach.	Je suis à la plage.
+I'm between jobs.	Je suis entre deux emplois.
